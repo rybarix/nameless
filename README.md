@@ -6,7 +6,7 @@ What if you can start building your web application logic without
 npm and have similiar experience to react/vue/angular/whatever?
 
 Let me show you my little prototype which implements state management,
-data bindings and event bindigs in circa 70 lines of code without any library!
+data bindings and event bindigs in few lines of code without any library!
 
 ## Full Usage Example (Step by step)
 **We are going to build one input and button todoapp.**
